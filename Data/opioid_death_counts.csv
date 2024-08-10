@@ -1,199 +1,241 @@
 ﻿Year,State,Total Opioid Deaths
-2017,Alaska,100
-2017,Arizona,936
-2017,Connecticut,967
-2017,District of Columbia,271
-2017,Georgia,1003
-2017,Illinois,2214
-2017,Iowa,206
-2017,Maine,348
-2017,Maryland,2037
-2017,Massachusetts,1896
-2017,Nevada,438
-2017,New Hampshire,434
-2017,New Mexico,336
-2017,New York,3264
-2017,North Carolina,1921
-2017,Ohio,4327
-2017,Oklahoma,387
-2017,Oregon,344
-2017,Rhode Island,284
-2017,South Carolina,748
-2017,South Dakota,37
-2017,Tennessee,1275
-2017,Utah,456
-2017,Vermont,110
-2017,Virginia,1198
-2017,Washington,744
-2017,West Virginia,860
-2017,Wisconsin,934
-2017,Wyoming,44
-2018,Alaska,65
-2018,Arizona,1134
-2018,Colorado,568
-2018,Connecticut,957
-2018,Delaware,361
-2018,District of Columbia,213
-2018,Georgia,853
-2018,Hawaii,58
-2018,Illinois,2193
-2018,Iowa,138
-2018,Kentucky,1001
-2018,Maine,277
-2018,Maryland,2150
-2018,Massachusetts,1996
-2018,Michigan,2009
-2018,Missouri,1153
-2018,Nevada,396
-2018,New Hampshire,406
-2018,New Jersey,2564
-2018,New Mexico,334
-2018,New York,3011
-2018,North Carolina,1781
-2018,Ohio,3259
-2018,Oklahoma,300
-2018,Oregon,346
-2018,Rhode Island,280
-2018,South Carolina,818
-2018,South Dakota,27
-2018,Tennessee,1309
-2018,Utah,439
-2018,Vermont,116
-2018,Virginia,1193
-2018,Washington,732
-2018,West Virginia,730
-2018,Wisconsin,850
-2018,Wyoming,41
-2019,Alaska,83
-2019,Arizona,1326
-2019,California,3324
-2019,Colorado,644
-2019,Connecticut,1119
-2019,Delaware,382
-2019,District of Columbia,281
-2019,Florida,3981
-2019,Georgia,837
-2019,Hawaii,56
-2019,Illinois,2232
-2019,Indiana,1256
-2019,Iowa,157
-2019,Kansas,171
-2019,Kentucky,1024
-2019,Maine,317
-2019,Maryland,2117
-2019,Massachusetts,1977
-2019,Mississippi,231
-2019,Missouri,1105
-2019,Nevada,411
-2019,New Hampshire,354
-2019,New Jersey,2487
-2019,New Mexico,405
-2019,New York,2953
-2019,North Carolina,1793
-2019,Ohio,3484
-2019,Oklahoma,249
-2019,Oregon,326
-2019,Rhode Island,252
-2019,South Carolina,876
-2019,South Dakota,38
-2019,Tennessee,1566
-2019,Texas,1452
-2019,Utah,399
-2019,Vermont,102
-2019,Virginia,1252
-2019,Washington,815
-2019,West Virginia,665
-2019,Wisconsin,929
-2019,Wyoming,43
-2021,Alaska,198
-2021,Arizona,2034
-2021,California,7538
-2021,Colorado,1300
-2021,Connecticut,1411
-2021,Delaware,447
-2021,District of Columbia,418
-2021,Florida,6196
-2021,Georgia,1734
-2021,Hawaii,88
-2021,Idaho,226
-2021,Illinois,3102
-2021,Indiana,2181
-2021,Iowa,258
-2021,Kansas,432
-2021,Kentucky,1912
-2021,Maine,552
-2021,Maryland,2457
-2021,Massachusetts,2238
-2021,Michigan,2546
-2021,Minnesota,964
-2021,Mississippi,531
-2021,Missouri,1614
-2021,Montana,108
-2021,Nevada,622
-2021,New Hampshire,377
-2021,New Jersey,2638
-2021,New Mexico,746
-2021,New York,5024
-2021,North Carolina,3285
-2021,Ohio,4479
-2021,Oklahoma,444
-2021,Oregon,783
-2021,Rhode Island,387
-2021,South Carolina,1732
-2021,South Dakota,43
-2021,Tennessee,3094
-2021,Texas,2697
-2021,Utah,453
-2021,Vermont,221
-2021,Virginia,2208
-2021,Washington,1625
-2021,West Virginia,1250
-2021,Wisconsin,1427
-2021,Wyoming,62
-2022,Alabama,1076
-2022,Alaska,185
-2022,Arizona,1965
-2022,Arkansas,359
-2022,California,7929
-2022,Colorado,1207
-2022,Connecticut,1345
-2022,Delaware,485
-2022,District of Columbia,452
-2022,Florida,5833
-2022,Georgia,1917
-2022,Hawaii,103
-2022,Idaho,251
-2022,Illinois,3213
-2022,Indiana,2051
-2022,Iowa,237
-2022,Kansas,509
-2022,Kentucky,1803
-2022,Maine,622
-2022,Maryland,2212
-2022,Massachusetts,2334
-2022,Michigan,2409
-2022,Minnesota,1039
-2022,Mississippi,497
-2022,Missouri,1605
-2022,Montana,116
-2022,Nevada,694
-2022,New Hampshire,428
-2022,New Jersey,2606
-2022,New Mexico,722
-2022,New York,5532
-2022,North Carolina,3602
-2022,Ohio,4237
-2022,Oklahoma,740
-2022,Oregon,991
-2022,Rhode Island,357
-2022,South Carolina,1861
-2022,South Dakota,36
-2022,Tennessee,3084
-2022,Texas,3101
-2022,Utah,436
-2022,Vermont,232
-2022,Virginia,2108
-2022,Washington,2101
-2022,West Virginia,1139
-2022,Wisconsin,1421
-2022,Wyoming,79
+2017,Alabama,0
+2017,Alaska,92.5
+2017,Arizona,886.8571429
+2017,Arkansas,0
+2017,California,0
+2017,Colorado,0
+2017,Connecticut,935.9166667
+2017,Delaware,0
+2017,District of Columbia,287.8333333
+2017,Florida,0
+2017,Georgia,991.9166667
+2017,Hawaii,69
+2017,Idaho,0
+2017,Illinois,2090.083333
+2017,Indiana,0
+2017,Iowa,196.0833333
+2017,Kansas,0
+2017,Kentucky,0
+2017,Maine,322.9166667
+2017,Maryland,2017.5
+2017,Massachusetts,1911.333333
+2017,Michigan,0
+2017,Minnesota,0
+2017,Mississippi,0
+2017,Missouri,993
+2017,Montana,0
+2017,Nevada,419.0833333
+2017,New Hampshire,418.4166667
+2017,New Jersey,0
+2017,New Mexico,349.9166667
+2017,New York,1629.208333
+2017,North Carolina,1735.333333
+2017,North Dakota,0
+2017,Ohio,4266.75
+2017,Oklahoma,430.9166667
+2017,Oregon,321.3333333
+2017,Rhode Island,287.3333333
+2017,South Carolina,703.9166667
+2017,South Dakota,40.16666667
+2017,Tennessee,1247.416667
+2017,Texas,0
+2017,Utah,444.3333333
+2017,Vermont,111
+2017,Virginia,1163.083333
+2017,Washington,700.75
+2017,West Virginia,835.3333333
+2017,Wisconsin,901.4166667
+2017,Wyoming,44.88888889
+2018,Alabama,0
+2018,Alaska,82.5
+2018,Arizona,1028.416667
+2018,Arkansas,0
+2018,California,0
+2018,Colorado,573.6
+2018,Connecticut,953.6666667
+2018,Delaware,329.1
+2018,District of Columbia,219.9166667
+2018,Florida,0
+2018,Georgia,916.25
+2018,Hawaii,55.22222222
+2018,Idaho,0
+2018,Illinois,2236.166667
+2018,Indiana,0
+2018,Iowa,172.0833333
+2018,Kansas,0
+2018,Kentucky,1048.090909
+2018,Maine,330.4166667
+2018,Maryland,2149.333333
+2018,Massachusetts,1989.583333
+2018,Michigan,2030.333333
+2018,Minnesota,0
+2018,Mississippi,0
+2018,Missouri,1072.6
+2018,Montana,0
+2018,Nevada,412.5
+2018,New Hampshire,420
+2018,New Jersey,2389.857143
+2018,New Mexico,329.8333333
+2018,New York,1542.083333
+2018,North Carolina,1833.583333
+2018,North Dakota,0
+2018,Ohio,3540
+2018,Oklahoma,324.6666667
+2018,Oregon,353.5
+2018,Rhode Island,278.9166667
+2018,South Carolina,777.6666667
+2018,South Dakota,29.5
+2018,Tennessee,1279.083333
+2018,Texas,1416
+2018,Utah,461.5833333
+2018,Vermont,114.5
+2018,Virginia,1183.666667
+2018,Washington,741.8333333
+2018,West Virginia,770.75
+2018,Wisconsin,885.4166667
+2018,Wyoming,41.41666667
+2019,Alabama,0
+2019,Alaska,80.16666667
+2019,Arizona,1216.166667
+2019,Arkansas,0
+2019,California,3052.285714
+2019,Colorado,580.4545455
+2019,Connecticut,1028.416667
+2019,Delaware,364.4166667
+2019,District of Columbia,236.6666667
+2019,Florida,3925.333333
+2019,Georgia,835.4166667
+2019,Hawaii,60.75
+2019,Idaho,0
+2019,Illinois,2129.833333
+2019,Indiana,1155.3
+2019,Iowa,140.1666667
+2019,Kansas,167.8
+2019,Kentucky,988.75
+2019,Maine,282.5
+2019,Maryland,2098.916667
+2019,Massachusetts,1945.416667
+2019,Michigan,1867.75
+2019,Minnesota,0
+2019,Mississippi,194.6363636
+2019,Missouri,1122.166667
+2019,Montana,0
+2019,Nevada,416.75
+2019,New Hampshire,374.5
+2019,New Jersey,2472.916667
+2019,New Mexico,360.25
+2019,New York,1453.541667
+2019,North Carolina,1813.25
+2019,North Dakota,0
+2019,Ohio,3367.25
+2019,Oklahoma,260.25
+2019,Oregon,326.6666667
+2019,Rhode Island,273.8333333
+2019,South Carolina,835
+2019,South Dakota,31.58333333
+2019,Tennessee,1440.583333
+2019,Texas,1402.083333
+2019,Utah,401
+2019,Vermont,110.9166667
+2019,Virginia,1228.416667
+2019,Washington,769.3333333
+2019,West Virginia,679.1666667
+2019,Wisconsin,877.0833333
+2019,Wyoming,42.33333333
+2021,Alabama,0
+2021,Alaska,156.5
+2021,Arizona,1985.666667
+2021,Arkansas,338.6666667
+2021,California,6885.666667
+2021,Colorado,1156.916667
+2021,Connecticut,1332.75
+2021,Delaware,415.5
+2021,District of Columbia,408.5
+2021,Florida,6047.75
+2021,Georgia,1512.416667
+2021,Hawaii,81.5
+2021,Idaho,196.8
+2021,Illinois,2941.25
+2021,Indiana,2027
+2021,Iowa,234.9166667
+2021,Kansas,353.75
+2021,Kentucky,1860.333333
+2021,Maine,482.25
+2021,Maryland,2560.416667
+2021,Massachusetts,2141
+2021,Michigan,2400.083333
+2021,Minnesota,878.3333333
+2021,Mississippi,484.9166667
+2021,Missouri,1507.666667
+2021,Montana,96.83333333
+2021,Nevada,635.3333333
+2021,New Hampshire,343.9166667
+2021,New Jersey,2576.75
+2021,New Mexico,652.8333333
+2021,New York,2352.875
+2021,North Carolina,2973.5
+2021,North Dakota,0
+2021,Ohio,4537.083333
+2021,Oklahoma,365.0833333
+2021,Oregon,654
+2021,Rhode Island,350.8333333
+2021,South Carolina,1585.833333
+2021,South Dakota,37.75
+2021,Tennessee,2829.916667
+2021,Texas,2511.583333
+2021,Utah,445.75
+2021,Vermont,192.8333333
+2021,Virginia,2094.583333
+2021,Washington,1418.833333
+2021,West Virginia,1268.5
+2021,Wisconsin,1341.166667
+2021,Wyoming,60.75
+2022,Alabama,1015.777778
+2022,Alaska,185.5833333
+2022,Arizona,1983.25
+2022,Arkansas,387.8333333
+2022,California,7705.583333
+2022,Colorado,1250.083333
+2022,Connecticut,1367.25
+2022,Delaware,464.5
+2022,District of Columbia,425.5833333
+2022,Florida,5984.5
+2022,Georgia,1846.75
+2022,Hawaii,101.5
+2022,Idaho,246.9166667
+2022,Illinois,3207.916667
+2022,Indiana,2133.666667
+2022,Iowa,256.25
+2022,Kansas,466.1666667
+2022,Kentucky,1830.666667
+2022,Maine,577.6666667
+2022,Maryland,2270.916667
+2022,Massachusetts,2281.75
+2022,Michigan,2449.25
+2022,Minnesota,994.1666667
+2022,Mississippi,502.3333333
+2022,Missouri,1598.5
+2022,Montana,119.4166667
+2022,Nevada,634
+2022,New Hampshire,421.5833333
+2022,New Jersey,2628.916667
+2022,New Mexico,741.9166667
+2022,New York,2618.625
+2022,North Carolina,3443.666667
+2022,North Dakota,76
+2022,Ohio,4277
+2022,Oklahoma,616
+2022,Oregon,852.0833333
+2022,Rhode Island,380.5
+2022,South Carolina,1801.416667
+2022,South Dakota,41.75
+2022,Tennessee,3045.333333
+2022,Texas,2853.166667
+2022,Utah,444.9166667
+2022,Vermont,228
+2022,Virginia,2126.75
+2022,Washington,1819.833333
+2022,West Virginia,1154.833333
+2022,Wisconsin,1469.833333
+2022,Wyoming,72.25
