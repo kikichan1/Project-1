@@ -1,4 +1,0 @@
-# US Census API Key
-census_api_key = 'a905cd81e5725364bff136658c57d569834d39e7'
-
-#7777ffa764c28bf2199fbc37bc1a516b6a535250
