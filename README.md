@@ -2,9 +2,6 @@ Title: Clearly state the name of the project.
 
 Description: Provide a brief overview of what the project does and its purpose. This should be clear and engaging.
 
-Table of Contents (Optional)
-For larger projects, a table of contents helps users navigate the README easily.
-
 Installation Instructions
 Dependencies: List any software or libraries needed.
 
