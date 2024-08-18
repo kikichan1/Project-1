@@ -1,19 +1,43 @@
-Nexus of Crisis: 
-Examining the opioid epidemic and various demographic factors
+**Nexus of Crisis: Examining the opioid epidemic and various demographic factors**
+---------------------------------------------------------------------------------------
+This README contains both:
+
+**1. Analysis and Conclusion**
+
+**2. Installation Instructions**
+
+------------------------------------------------------------------------------------------
+**1. Analysis and Conclusion**
 
 The number of opioid-related deaths has been rising continuously since 1999. The number of people who died from a drug overdose in 2021 was over six times the number in 1999. Over 75% of the nearly 107,000 drug overdose deaths in 2022 involved an opioid.
 
 Against this background, this project examines the opioid epidemic and explores if there is any correlation between opioid-related deaths and various demographic factors, namely unemployment rate, educational attainment, income level and family size.
 
-This README contains both:
-1. Analysis and Conclusion
-2. Installation Instructions
-------------------------------------------------------------------------------------------
-1. Analysis and Conclusion
-1.1 Analysis: 
+1.1 Analysis
+
+1.1.1 _Can unemployment levels in a given state possibly correlate to opioid deaths counts in that state? Could unemployment predict levels of opioid death?_
+
+**Our findings**:
+
+1.1.2 _Can educational attainment in a given state possibly correlate to opioid deaths counts in that state? Could educational attainment be a predicter for levels of opioid death?_
+
+**Our findings**: To conduct this analysis we analyzed educational attainment data from the US Census. Educational Attainment was grouped into those who never graduated high school, those with high school/GED, those with a college degree, and those with an advanced degree. 
+
+We conducted a regression analysis to determine if there was a possible correlation between educational attainment and opioid death. Two single variable regressions (opioid deaths and % of state with college degree, opioid deaths and % of state with high school diploma/GED) revealed there is **no correlation between these two variables**. The regression line was flat.
+
+1.1.3 _Can median household income in a given state possibly correlate to opioid deaths counts in that state? Could median household income be a predicter for levels of opioid death?_
+
+**Our findings**:
+
+1.1.4 _Can average family size in a given state possibly correlate to opioid deaths counts in that state? Could family size be a predicter for levels of opioid death?_
+
+**Our findings**:
+
 1.2 Conclusion
 
-2. Installation Instructions
+
+
+**2. Installation Instructions**
 
 2.1. Dependencies
 
