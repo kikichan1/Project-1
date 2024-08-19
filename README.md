@@ -21,7 +21,7 @@ Against this background, this project examines the opioid epidemic and explores 
 
 1.1.2 _Can unemployment levels in a given state possibly correlate to opioid deaths counts in that state? Could unemployment predict levels of opioid death?_
 
-**Our findings**:
+**Our findings**: To conduct this analysis we used US Census data extracting 5 years of total unemployed in the civilian labor force to identify percent contributions by state population. We then calculated the percent conribution of opioid related death counts per state to population numbers and then analyzed the ratio in a heatmap to see if there is any potential correlation between the rates. We did not conclude that there is necessarily a strong relationship but we did identify the states that have much higher death rates to unemployment that would be worth investigating further to understand what IS causing such high numbers. The pie charts reflect the percent to total 5 years by year contribution to unemployment in the total US and opioid related death counts by year in total US. We singled out year 2022 as the unemployment rates were the highest of all 5 years as the opioid related deaths were second lowest as well as half of the unemployment rate in that year. Based on the findings or lack there of, we cannot suggest that unemployment has a relationship to opioid related deaths, if we were to conduct this analysis further we would identify the unemployment status of the specific persons that are counted for opioid related deaths and then be able to make a more accurate assumption.
 
 1.1.3 _Can educational attainment in a given state possibly correlate to opioid deaths counts in that state? Could educational attainment be a predicter for levels of opioid death?_
 
