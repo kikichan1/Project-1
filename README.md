@@ -17,25 +17,33 @@ Against this background, this project examines the opioid epidemic and explores 
 
 1.1.1. What is the trend in opioid deaths across the USA?
 
-Our findings: Opioid death counts have been rising year over year. California and Florida have seen the sharpest rise in opioid death counts (CDC 2017-2022)
+**Our findings**: Opioid death counts have been rising year over year. California and Florida have seen the sharpest rise in opioid death counts (CDC 2017-2022)
 
 1.1.2 Can unemployment levels in a given state possibly correlate to opioid deaths counts in that state? Could unemployment predict levels of opioid death?
 
-Our findings:
+**Our findings**:
 
 1.1.3 Can educational attainment in a given state possibly correlate to opioid deaths counts in that state? Could educational attainment be a predicter for levels of opioid death?
 
-Our findings: To conduct this analysis we analyzed educational attainment data from the US Census. Educational Attainment was grouped into those who never graduated high school, those with high school/GED, those with a college degree, and those with an advanced degree.
+**Our findings**: To conduct this analysis we analyzed educational attainment data from the US Census. Educational Attainment was grouped into those who never graduated high school, those with high school/GED, those with a college degree, and those with an advanced degree.
 
 We conducted a regression analysis to determine if there was a possible correlation between educational attainment and opioid death. Two single variable regressions (opioid deaths and % of state with college degree, opioid deaths and % of state with high school diploma/GED) revealed there is no correlation between these two variables. The regression line was flat.
 
 1.1.4 Can median household income in a given state possibly correlate to opioid deaths counts in that state? Could median household income be a predicter for levels of opioid death?
 
-Our findings:
+**Our findings**: To conduct this analysis we analyzed median household income data from the US Census.
+
+We conducted a regression analysis to determine if there was a possible correlation between median household income and opioid deaths. Two single variable regressions (opioid deaths and median household income) for five years (2017-2019, 2021-2022) and for each year revealed there is weak to no correlation between these two variables. The regression lines were slightly positive or flat. 
+
+To validate the weak correlation, we further conducted t test and ANOVA for opioid death in above-average income group (states with median household income above the national average) and below-average income group (states with median household income below the national average). As there is no statistically significant difference, we concluded that income level does not have a statistically effect on opioid deaths.
+
 
 1.1.4 Can average family size in a given state possibly correlate to opioid deaths counts in that state? Could family size be a predicter for levels of opioid death?
 
-Our findings:
+**Our findings**: To conduct this analysis we compared various households which we acquired data from the US Census to opioid deaths across the United States. These households were narrowed down to focus on households living alone.
+
+We prepared a series of scatterplots to ascertain if there is a correlation between households living alone and opioid deaths. 2017-2019 and 2021-2022 all showed a distinct correlation individually and collectively between living alone and opioid deaths. The regression line for every year was pointing in a positive direction. Family size could be a good predicator of future opioid deaths.
+
 
 1.2 Conclusion
 
